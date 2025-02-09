@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Mohammad Hasan Taheri! 🚀  
 
-<!--
-**MHTpro/MHTpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Creator & Multiskilled Innovator  
+I'm a passionate **Creator & Multiskilled Innovator**, always pushing the boundaries of **technology and design**.  
 
-Here are some ideas to get you started:
+- **📱 Mobile Development:** Flutter & Python  
+- **🎮 Game Development:** Unity & C#  
+- **🎨 UI/UX & Graphic Design:** Adobe XD, Photoshop, Illustrator  
+- **🖌️ 3D Modeling & Texturing:** Blender & Substance 3D  
+- **🎞️ Motion Graphics & VFX:** After Effects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+I specialize in developing **high-quality mobile applications** and **immersive games**, crafting **unique UI/UX experiences**, and creating **stunning visual effects**. I'm always learning, exploring new ideas, and sharing knowledge with the world.  
+
+## 🔗 Connect with Me  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-hasan-taheri-95b387265)  
+- **GitHub:** [GitHub Profile](https://github.com/MHTpro)  
+- **Instagram:** [Instagram Profile](https://www.instagram.com/mohammadhasantaheri)  
+- **Telegram:** [Telegram Channel](https://t.me/MHTCreations)  
+
+Let's connect and build something extraordinary! 🚀  
