@@ -14,10 +14,7 @@ I'm a passionate **Creator & Multiskilled Innovator**, always pushing the bounda
 ## 🌟 About Me  
 I specialize in developing **high-quality mobile applications** and **immersive games**, crafting **unique UI/UX experiences**, and creating **stunning visual effects**. I'm always learning, exploring new ideas, and sharing knowledge with the world.  
 
-## 🔗 Connect with Me  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-hasan-taheri-95b387265)  
-- **GitHub:** [GitHub Profile](https://github.com/MHTpro)  
-- **Instagram:** [Instagram Profile](https://www.instagram.com/mohammadhasantaheri)  
-- **Telegram:** [Telegram Channel](https://t.me/MHTCreations)  
+## 🔗 Connect with Me
+- **Website:** [Website](https://mhtpro.github.io/MyPortfolio/)  
 
 Let's connect and build something extraordinary! 🚀  
