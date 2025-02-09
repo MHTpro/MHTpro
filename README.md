@@ -15,6 +15,6 @@ I'm a passionate **Creator & Multiskilled Innovator**, always pushing the bounda
 I specialize in developing **high-quality mobile applications** and **immersive games**, crafting **unique UI/UX experiences**, and creating **stunning visual effects**. I'm always learning, exploring new ideas, and sharing knowledge with the world.  
 
 ## 🔗 Connect with Me
-- **Website:** [Website](https://mhtpro.github.io/MyPortfolio/)  
+- **Website:** [website link](https://mhtpro.github.io/MyPortfolio/)  
 
 Let's connect and build something extraordinary! 🚀  
